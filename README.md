@@ -1,10 +1,10 @@
-# Terraform-ApplicationDeployment
+# Overview
 In this project, I utilized Terraform Provisioners and AWS to build an automated and reliable deployment pipeline for applications on Amazon EC2 instances. This automation solution streamlines the deployment process on AWS EC2. As part of this project, I will deploy a simple Flask application.
 
 
 
 
-#Overview
+
 
 ![Flow](https://github.com/user-attachments/assets/dea2f643-dc47-452e-b292-a6a87722b082)
 
